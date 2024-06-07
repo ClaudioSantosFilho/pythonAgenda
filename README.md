@@ -19,8 +19,8 @@ Instruções:
 - Implementação do Script Python.
 
 Especificações:
-- Listar 
-- Pesquisar
-- Adcionar
-- Remover
-- Sair
+- Listar contato
+- Pesquisar contato
+- Adcionar contato
+- Remover contato
+- Sair do sistema
